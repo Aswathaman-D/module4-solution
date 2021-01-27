@@ -1,3 +1,4 @@
+//assignment
 (function (window) {
 	var helloSpeaker = {};
 	var Speakword ="Hello";

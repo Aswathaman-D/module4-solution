@@ -1,3 +1,5 @@
+//assignment
+
 (function (window) {
 	var GoodByeSpeaker = {};
 	var Speakword ="Good Bye";
